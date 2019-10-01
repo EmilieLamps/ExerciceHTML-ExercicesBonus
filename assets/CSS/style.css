@@ -37,6 +37,10 @@ body {
   border : 1px solid #c8b990;
   padding-top: 0;
 }
+.onglets {
+  text-decoration: none;
+  color: #746f4b;
+}
 .Search {
   display: flex;
   justify-content: center;
@@ -57,7 +61,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 10;
-  margin-right: 50;
+  margin-right: 10;
 }
 section {
   text-align: center;
@@ -67,7 +71,7 @@ p {
 }
 .Destinations {
   border: 1px solid #1db1ac;
-  margin-left: 50;
+  margin-left: 10;
   padding-top: 10;
   padding-left: 10;
   padding-right: 10;
